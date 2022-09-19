@@ -1,0 +1,404 @@
+Last login: Tue Sep 20 08:41:23 on console 
+╭─   ~ ────────────────────────────────────────────────── at  08:44:30 am ─╮ 
+╰─❯ pwd                                                                      ─╯ 
+/Users/shanicema 
+ 
+╭─   ~ ────────────────────────────────────────────────── at  08:51:51 am ─╮ 
+╰─❯ cd ~/Desktop                                                             ─╯ 
+ 
+╭─   ~/Desktop ────────────────────────────────────────── at  08:52:42 am ─╮ 
+╰─❯ cd ~/Documents                                                           ─╯ 
+ 
+╭─   ~/Documents ──────────────────────────────────────── at  08:52:57 am ─╮ 
+╰─❯ ls                                                                       ─╯ 
+2019 HSBC Bank Statements joint Personality Plus 
+2020 HSBC Bank Statements joint QLD Family Trip 
+2021 HSBC Bank Statements joint Vision 21 
+Clade Growth Plan FY21          Visual Studio Code Repo 22 
+Dad's Receipts 
+ 
+╭─   ~/Documents ──────────────────────────────────────── at  08:52:59 am ─╮ 
+╰─❯ cd Visual\ Studio\ Code\ Repo\ 22/Nology_PrecourseWork/                  ─╯ 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork ──────────────────── at  08:53:44 am ─╮ 
+╰─❯ git init                                                                 ─╯ 
+Initialized empty Git repository in /Users/shanicema/Documents/Visual Studio Code Repo 22/Nology_PrecourseWork/.git/ 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main ?18 ──── at  08:54:48 am ─╮ 
+╰─❯ git add .                                                                ─╯ 
+warning: adding embedded git repository: my-first-repo 
+hint: You've added another git repository inside your current repository. 
+hint: Clones of the outer repository will not contain the contents of 
+hint: the embedded repository and will not know how to obtain it. 
+hint: If you meant to add a submodule, use: 
+hint:  
+hint: 	git submodule add <url> my-first-repo 
+hint:  
+hint: If you added this path by mistake, you can remove it from the 
+hint: index with: 
+hint:  
+hint: 	git rm --cached my-first-repo 
+hint:  
+hint: See "git help submodule" for more information. 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main +77 ──── at  08:55:01 am ─╮ 
+╰─❯ git status                                                               ─╯ 
+On branch main 
+ 
+No commits yet 
+ 
+Changes to be committed: 
+  (use "git rm --cached <file>..." to unstage) 
+	new file:   .DS_Store 
+	new file:   BOX MODEL/box_model_homework.html 
+	new file:   BOX MODEL/box_model_lesson.html 
+	new file:   CAFE WEBSITE PROJECT - PART 1/.DS_Store 
+	new file:   CAFE WEBSITE PROJECT - PART 1/CSS Gallery - Homework/.DS_Store 
+	new file:   CAFE WEBSITE PROJECT - PART 1/CSS Gallery - Homework/09B - Portfolio Project - Challenge - CSS Grid Gallery.pdf 
+	new file:   CAFE WEBSITE PROJECT - PART 1/CSS Gallery - Homework/about_us.css 
+	new file:   CAFE WEBSITE PROJECT - PART 1/CSS Gallery - Homework/adventurestore.jpeg 
+	new file:   CAFE WEBSITE PROJECT - PART 1/CSS Gallery - Homework/beneteau-oceanis.jpeg 
+	new file:   CAFE WEBSITE PROJECT - PART 1/CSS Gallery - Homework/home.css 
+	new file:   CAFE WEBSITE PROJECT - PART 1/CSS Gallery - Lesson/Cappuccino_at_Sightglass_Coffee.jpeg 
+	new file:   CAFE WEBSITE PROJECT - PART 1/CSS Gallery - Lesson/home.css 
+	new file:   CAFE WEBSITE PROJECT - PART 1/Contact Form - Homework/contact.css 
+	new file:   CAFE WEBSITE PROJECT - PART 1/Contact Form - Lesson/contact.css 
+	new file:   CAFE WEBSITE PROJECT - PART 1/Form Validation - Homework/11B - Portfolio Project - Challenge - Form Validation.pdf 
+	new file:   CAFE WEBSITE PROJECT - PART 1/Form Validation - Lesson/formvalidation_lesson.html 
+	new file:   CAFE WEBSITE PROJECT - PART 1/Project Setup - Homework/08B - Portfolio Project - Challenge - Project Setup.pdf 
+	new file:   CAFE WEBSITE PROJECT - PART 1/Project Setup - Homework/about_us.html 
+	new file:   CAFE WEBSITE PROJECT - PART 1/Project Setup - Homework/contact.html 
+	new file:   CAFE WEBSITE PROJECT - PART 1/Project Setup - Homework/home.html 
+	new file:   CAFE WEBSITE PROJECT - PART 1/Project Setup - Homework/styles.css 
+	new file:   CAFE WEBSITE PROJECT - PART 1/Project Setup - Lesson/book.html 
+	new file:   CAFE WEBSITE PROJECT - PART 1/Project Setup - Lesson/bookings.html 
+	new file:   CAFE WEBSITE PROJECT - PART 1/Project Setup - Lesson/contact.html 
+	new file:   CAFE WEBSITE PROJECT - PART 1/Project Setup - Lesson/home.html 
+	new file:   CAFE WEBSITE PROJECT - PART 1/Project Setup - Lesson/styles.css 
+	new file:   CAFE WEBSITE PROJECT - PART 2/16B - Portfolio Project - Challenge - Storing Messages.pdf 
+	new file:   CAFE WEBSITE PROJECT - PART 2/17B - Portfolio Project - Challenge - Retrieving Messages.pdf 
+	new file:   CAFE WEBSITE PROJECT - PART 2/18B - Portfolio Project - Challenge - Deleting Messages.pdf 
+	new file:   CSS COMBINATORS/css_combinators_homework1st.html 
+	new file:   CSS COMBINATORS/css_combinators_homework2nd.html 
+	new file:   CSS COMBINATORS/css_combinators_lesson.html 
+	new file:   CSS Introduction/.DS_Store 
+	new file:   CSS Introduction/css_homework.html 
+	new file:   CSS Introduction/css_lesson.html 
+	new file:   DIV & SPAN/div_span_homework.html 
+	new file:   DIV & SPAN/div_span_lesson.html 
+	new file:   Extension Project/19 - Final Extension Challenge.pdf 
+	new file:   "Extension Project/Mushabum_Website/Mushab\303\274m.jpg" 
+	new file:   Extension Project/Mushabum_Website/about-us.css 
+	new file:   Extension Project/Mushabum_Website/about-us.html 
+	new file:   Extension Project/Mushabum_Website/contact.css 
+	new file:   Extension Project/Mushabum_Website/contact.html 
+	new file:   Extension Project/Mushabum_Website/home.css 
+	new file:   Extension Project/Mushabum_Website/home.html 
+	new file:   Extension Project/Mushabum_Website/lionsmane.webp 
+	new file:   Extension Project/Mushabum_Website/mushroom-shop.webp 
+	new file:   Extension Project/Mushabum_Website/paulstamets.gif 
+	new file:   Extension Project/Mushabum_Website/reishipowder.webp 
+	new file:   Extension Project/Mushabum_Website/shop.css 
+	new file:   Extension Project/Mushabum_Website/shop.html 
+	new file:   Extension Project/Mushabum_Website/style.css 
+	new file:   Extension Project/Mushabum_Website/turkeytailliquidextract.webp 
+	new file:   HTML LISTS/html_lists_homework.html 
+	new file:   HTML LISTS/html_lists_lesson.html 
+	new file:   HTML/html_ext_bykevin.html 
+	new file:   HTML/html_homework.html 
+	new file:   HTML/html_lesson.html 
+	new file:   ID & CLASS/id_class_homework.html 
+	new file:   ID & CLASS/id_class_lesson.html 
+	new file:   ID & CLASS/id_class_lesson_betterapproach.html 
+	new file:   Project-Website/Project-Website.zip 
+	new file:   Project-Website/about_us.css 
+	new file:   Project-Website/about_us.html 
+	new file:   Project-Website/adventurestore.jpeg 
+	new file:   Project-Website/beneteau-oceanis.jpeg 
+	new file:   Project-Website/contact.css 
+	new file:   Project-Website/contact.html 
+	new file:   Project-Website/home.css 
+	new file:   Project-Website/home.html 
+	new file:   Project-Website/styles.css 
+	new file:   Terminal.md 
+	new file:   cool-file.txt 
+	new file:   git-commands.md 
+	new file:   my-first-repo 
+	new file:   new-file.txt 
+	new file:   terminal-log.txt 
+ 
+Changes not staged for commit: 
+  (use "git add <file>..." to update what will be committed) 
+  (use "git restore <file>..." to discard changes in working directory) 
+  (commit or discard the untracked or modified content in submodules) 
+	modified:   my-first-repo (untracked content) 
+ 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main +77 ──── at  08:55:08 am ─╮ 
+╰─❯ git commit -m "first commit"                                             ─╯ 
+[main (root-commit) c77aadd] first commit 
+ Committer: Shanice Ma <shanicema@Shanices-MacBook-Air.local> 
+Your name and email address were configured automatically based 
+on your username and hostname. Please check that they are accurate. 
+You can suppress this message by setting them explicitly. Run the 
+following command and follow the instructions in your editor to edit 
+your configuration file: 
+ 
+    git config --global --edit 
+ 
+After doing this, you may fix the identity used for this commit with: 
+ 
+    git commit --amend --reset-author 
+ 
+ 77 files changed, 2899 insertions(+) 
+ create mode 100644 .DS_Store 
+ create mode 100644 BOX MODEL/box_model_homework.html 
+ create mode 100644 BOX MODEL/box_model_lesson.html 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/.DS_Store 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/CSS Gallery - Homework/.DS_Store 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/CSS Gallery - Homework/09B - Portfolio Project - Challenge - CSS Grid Gallery.pdf 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/CSS Gallery - Homework/about_us.css 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/CSS Gallery - Homework/adventurestore.jpeg 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/CSS Gallery - Homework/beneteau-oceanis.jpeg 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/CSS Gallery - Homework/home.css 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/CSS Gallery - Lesson/Cappuccino_at_Sightglass_Coffee.jpeg 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/CSS Gallery - Lesson/home.css 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/Contact Form - Homework/contact.css 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/Contact Form - Lesson/contact.css 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/Form Validation - Homework/11B - Portfolio Project - Challenge - Form Validation.pdf 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/Form Validation - Lesson/formvalidation_lesson.html 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/Project Setup - Homework/08B - Portfolio Project - Challenge - Project Setup.pdf 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/Project Setup - Homework/about_us.html 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/Project Setup - Homework/contact.html 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/Project Setup - Homework/home.html 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/Project Setup - Homework/styles.css 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/Project Setup - Lesson/book.html 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/Project Setup - Lesson/bookings.html 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/Project Setup - Lesson/contact.html 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/Project Setup - Lesson/home.html 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 1/Project Setup - Lesson/styles.css 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 2/16B - Portfolio Project - Challenge - Storing Messages.pdf 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 2/17B - Portfolio Project - Challenge - Retrieving Messages.pdf 
+ create mode 100644 CAFE WEBSITE PROJECT - PART 2/18B - Portfolio Project - Challenge - Deleting Messages.pdf 
+ create mode 100644 CSS COMBINATORS/css_combinators_homework1st.html 
+ create mode 100644 CSS COMBINATORS/css_combinators_homework2nd.html 
+ create mode 100644 CSS COMBINATORS/css_combinators_lesson.html 
+ create mode 100644 CSS Introduction/.DS_Store 
+ create mode 100644 CSS Introduction/css_homework.html 
+ create mode 100644 CSS Introduction/css_lesson.html 
+ create mode 100644 DIV & SPAN/div_span_homework.html 
+ create mode 100644 DIV & SPAN/div_span_lesson.html 
+ create mode 100644 Extension Project/19 - Final Extension Challenge.pdf 
+ create mode 100644 "Extension Project/Mushabum_Website/Mushab\303\274m.jpg" 
+ create mode 100644 Extension Project/Mushabum_Website/about-us.css 
+ create mode 100644 Extension Project/Mushabum_Website/about-us.html 
+ create mode 100644 Extension Project/Mushabum_Website/contact.css 
+ create mode 100644 Extension Project/Mushabum_Website/contact.html 
+ create mode 100644 Extension Project/Mushabum_Website/home.css 
+ create mode 100644 Extension Project/Mushabum_Website/home.html 
+ create mode 100644 Extension Project/Mushabum_Website/lionsmane.webp 
+ create mode 100644 Extension Project/Mushabum_Website/mushroom-shop.webp 
+ create mode 100644 Extension Project/Mushabum_Website/paulstamets.gif 
+ create mode 100644 Extension Project/Mushabum_Website/reishipowder.webp 
+ create mode 100644 Extension Project/Mushabum_Website/shop.css 
+ create mode 100644 Extension Project/Mushabum_Website/shop.html 
+ create mode 100644 Extension Project/Mushabum_Website/style.css 
+ create mode 100644 Extension Project/Mushabum_Website/turkeytailliquidextract.webp 
+ create mode 100644 HTML LISTS/html_lists_homework.html 
+ create mode 100644 HTML LISTS/html_lists_lesson.html 
+ create mode 100644 HTML/html_ext_bykevin.html 
+ create mode 100644 HTML/html_homework.html 
+ create mode 100644 HTML/html_lesson.html 
+ create mode 100644 ID & CLASS/id_class_homework.html 
+ create mode 100644 ID & CLASS/id_class_lesson.html 
+ create mode 100644 ID & CLASS/id_class_lesson_betterapproach.html 
+ create mode 100644 Project-Website/Project-Website.zip 
+ create mode 100644 Project-Website/about_us.css 
+ create mode 100644 Project-Website/about_us.html 
+ create mode 100644 Project-Website/adventurestore.jpeg 
+ create mode 100644 Project-Website/beneteau-oceanis.jpeg 
+ create mode 100644 Project-Website/contact.css 
+ create mode 100644 Project-Website/contact.html 
+ create mode 100644 Project-Website/home.css 
+ create mode 100644 Project-Website/home.html 
+ create mode 100644 Project-Website/styles.css 
+ create mode 100644 Terminal.md 
+ create mode 100644 cool-file.txt 
+ create mode 100644 git-commands.md 
+ create mode 160000 my-first-repo 
+ create mode 100644 new-file.txt 
+ create mode 100644 terminal-log.txt 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main ──────── at  08:55:50 am ─╮ 
+╰─❯ git status                                                               ─╯ 
+On branch main 
+Changes not staged for commit: 
+  (use "git add <file>..." to update what will be committed) 
+  (use "git restore <file>..." to discard changes in working directory) 
+  (commit or discard the untracked or modified content in submodules) 
+	modified:   my-first-repo (untracked content) 
+ 
+no changes added to commit (use "git add" and/or "git commit -a") 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main ──────── at  08:56:10 am ─╮ 
+╰─❯ ls                                                                       ─╯ 
+BOX MODEL                     ID & CLASS 
+CAFE WEBSITE PROJECT - PART 1 Project-Website 
+CAFE WEBSITE PROJECT - PART 2 Terminal.md 
+CSS COMBINATORS               cool-file.txt 
+CSS Introduction              git-commands.md 
+DIV & SPAN                    my-first-repo 
+Extension Project             new-file.txt 
+HTML                          terminal-log.txt 
+HTML LISTS 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main ──────── at  08:56:24 am ─╮ 
+╰─❯ git add -A                                                               ─╯ 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main ──────── at  08:56:37 am ─╮ 
+╰─❯ git status                                                               ─╯ 
+On branch main 
+Changes not staged for commit: 
+  (use "git add <file>..." to update what will be committed) 
+  (use "git restore <file>..." to discard changes in working directory) 
+  (commit or discard the untracked or modified content in submodules) 
+	modified:   my-first-repo (untracked content) 
+ 
+no changes added to commit (use "git add" and/or "git commit -a") 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main ──────── at  08:56:40 am ─╮ 
+╰─❯ cd my-first-repo                                                         ─╯ 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork/my-first-repo on   main ?6  
+╰─❯ ls -al                                                                   ─╯ 
+total 304 
+drwxr-xr-x@ 10 shanicema  staff    320 19 Sep 23:03 . 
+drwxr-xr-x@ 21 shanicema  staff    672 20 Sep 08:56 .. 
+drwxr-xr-x@ 15 shanicema  staff    480 20 Sep 08:57 .git 
+-rw-r--r--   1 shanicema  staff    112 19 Sep 15:54 README.md 
+drwxr-xr-x@  5 shanicema  staff    160 19 Sep 17:04 git-practice-repo 
+-rw-r--r--@  1 shanicema  staff  37129 19 Sep 22:36 iTerm2 Session 19 Sep 2022 at 10:35:48 pm.txt 
+-rw-r--r--@  1 shanicema  staff  84264 19 Sep 22:43 iTerm2 Session 19 Sep 2022 at 10:43:04 pm.txt 
+-rw-r--r--@  1 shanicema  staff  14331 19 Sep 22:55 iTerm2 Session 19 Sep 2022 at 10:55:32 pm.txt 
+-rw-r--r--@  1 shanicema  staff   3122 19 Sep 23:03 iTerm2 Session 19 Sep 2022 at 11:03:23 pm.txt 
+-rw-r--r--   1 shanicema  staff    134 19 Sep 16:51 new-file.txt 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork/my-first-repo on   main ?6  
+╰─❯ cd ..                                                                    ─╯ 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main ──────── at  08:57:40 am ─╮ 
+╰─❯ ls                                                                       ─╯ 
+BOX MODEL                     ID & CLASS 
+CAFE WEBSITE PROJECT - PART 1 Project-Website 
+CAFE WEBSITE PROJECT - PART 2 Terminal.md 
+CSS COMBINATORS               cool-file.txt 
+CSS Introduction              git-commands.md 
+DIV & SPAN                    my-first-repo 
+Extension Project             new-file.txt 
+HTML                          terminal-log.txt 
+HTML LISTS 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main ──────── at  08:57:41 am ─╮ 
+╰─❯ git remote add origin git@github.com:shanicema/New-Zealand-Nology.git    ─╯ 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main ──────── at  08:58:11 am ─╮ 
+╰─❯ git push -u origin main                                                  ─╯ 
+To github.com:shanicema/New-Zealand-Nology.git 
+ ! [rejected]        main -> main (fetch first) 
+error: failed to push some refs to 'github.com:shanicema/New-Zealand-Nology.git'
+hint: Updates were rejected because the remote contains work that you do 
+hint: not have locally. This is usually caused by another repository pushing 
+hint: to the same ref. You may want to first integrate the remote changes 
+hint: (e.g., 'git pull ...') before pushing again. 
+hint: See the 'Note about fast-forwards' in 'git push --help' for details. 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main ──────── at  08:58:33 am ─╮ 
+╰─❯ git pull                                                                 ─╯ 
+remote: Enumerating objects: 3, done. 
+remote: Counting objects: 100% (3/3), done. 
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 
+Unpacking objects: 100% (3/3), 606 bytes | 303.00 KiB/s, done. 
+From github.com:shanicema/New-Zealand-Nology 
+ * [new branch]      main       -> origin/main 
+There is no tracking information for the current branch. 
+Please specify which branch you want to merge with. 
+See git-pull(1) for details. 
+ 
+    git pull <remote> <branch> 
+ 
+If you wish to set tracking information for this branch you can do so with: 
+ 
+    git branch --set-upstream-to=origin/<branch> main 
+ 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main  
+╰─❯ git push -u origin main                                                  ─╯ 
+To github.com:shanicema/New-Zealand-Nology.git 
+ ! [rejected]        main -> main (non-fast-forward) 
+error: failed to push some refs to 'github.com:shanicema/New-Zealand-Nology.git'
+hint: Updates were rejected because the tip of your current branch is behind 
+hint: its remote counterpart. Integrate the remote changes (e.g. 
+hint: 'git pull ...') before pushing again. 
+hint: See the 'Note about fast-forwards' in 'git push --help' for details. 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main ──────── at  08:58:53 am ─╮ 
+╰─❯ git pull main                                                            ─╯ 
+fatal: 'main' does not appear to be a git repository 
+fatal: Could not read from remote repository. 
+ 
+Please make sure you have the correct access rights 
+and the repository exists. 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main ──────── at  08:59:00 am ─╮ 
+╰─❯ git branch --set-upstream-to=origin/main main                            ─╯ 
+branch 'main' set up to track 'origin/main'. 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main ⇣1⇡1 ─── at  08:59:33 am ─╮ 
+╰─❯ git push -u origin main                                                  ─╯ 
+To github.com:shanicema/New-Zealand-Nology.git 
+ ! [rejected]        main -> main (non-fast-forward) 
+error: failed to push some refs to 'github.com:shanicema/New-Zealand-Nology.git'
+hint: Updates were rejected because the tip of your current branch is behind 
+hint: its remote counterpart. Integrate the remote changes (e.g. 
+hint: 'git pull ...') before pushing again. 
+hint: See the 'Note about fast-forwards' in 'git push --help' for details. 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main ⇣1⇡1 ─── at  08:59:41 am ─╮ 
+╰─❯ git pull                                                                 ─╯ 
+hint: You have divergent branches and need to specify how to reconcile them. 
+hint: You can do so by running one of the following commands sometime before 
+hint: your next pull: 
+hint:  
+hint:   git config pull.rebase false  # merge 
+hint:   git config pull.rebase true   # rebase 
+hint:   git config pull.ff only       # fast-forward only 
+hint:  
+hint: You can replace "git config" with "git config --global" to set a default 
+hint: preference for all repositories. You can also pass --rebase, --no-rebase, 
+hint: or --ff-only on the command line to override the configured default per 
+hint: invocation. 
+fatal: Need to specify how to reconcile divergent branches. 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main ⇣1⇡1 ─── at  08:59:46 am ─╮ 
+╰─❯ git config pull.rebase true                                              ─╯ 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main ⇣1⇡1 ─── at  08:59:58 am ─╮ 
+╰─❯ git pull                                                                 ─╯ 
+warning: unable to rmdir 'my-first-repo': Directory not empty 
+Successfully rebased and updated refs/heads/main. 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main ⇡1  
+╰─❯ git push -u origin main                                                  ─╯ 
+Enumerating objects: 93, done. 
+Counting objects: 100% (93/93), done. 
+Delta compression using up to 8 threads 
+Compressing objects: 100% (88/88), done. 
+Writing objects: 100% (92/92), 13.87 MiB | 1.92 MiB/s, done. 
+Total 92 (delta 22), reused 0 (delta 0), pack-reused 0 
+remote: Resolving deltas: 100% (22/22), done. 
+To github.com:shanicema/New-Zealand-Nology.git 
+   63396d7..e183683  main -> main 
+branch 'main' set up to track 'origin/main'. 
+ 
+╭─   ~/Doc/Visu/Nology_PrecourseWork on   main  
+╰─❯                                                                          ─╯ 

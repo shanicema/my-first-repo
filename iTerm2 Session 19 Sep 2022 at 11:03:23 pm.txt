@@ -1,0 +1,41 @@
+Last login: Mon Sep 19 22:57:13 on ttys000 
+super secret message 
+╭─   ~ ────────────────────────────────────────────────── at  11:00:10 pm ─╮ 
+╰─❯ cd ~/Desktop                                                             ─╯ 
+ 
+super secret message: babes loves babes <3 
+╭─   ~/Desktop ────────────────────────────────────────── at  11:00:15 pm ─╮ 
+╰─❯ touch .super-secret                                                      ─╯ 
+ 
+╭─   ~/Desktop ────────────────────────────────────────── at  11:00:21 pm ─╮ 
+╰─❯ ls                                                                       ─╯ 
+dogs            people          terminal-lesson 
+ 
+╭─   ~/Desktop ────────────────────────────────────────── at  11:00:33 pm ─╮ 
+╰─❯ ls -al                                                                   ─╯ 
+total 24 
+drwx------@  8 shanicema  staff    256 19 Sep 21:57 . 
+drwxr-xr-x+ 38 shanicema  staff   1216 19 Sep 23:00 .. 
+-rw-r--r--@  1 shanicema  staff  10244 19 Sep 22:55 .DS_Store 
+-rw-r--r--   1 shanicema  staff      0 28 Jun  2021 .localized 
+-rw-r--r--   1 shanicema  staff      0 19 Sep 23:00 .super-secret 
+drwxr-xr-x@  2 shanicema  staff     64 19 Sep 21:38 dogs 
+drwxr-xr-x@  6 shanicema  staff    192 19 Sep 21:57 people 
+drwxr-xr-x@  8 shanicema  staff    256 19 Sep 16:55 terminal-lesson 
+ 
+╭─   ~/Desktop ────────────────────────────────────────── at  11:00:36 pm ─╮ 
+╰─❯ vim .super-secret                                                        ─╯ 
+ 
+╭─   ~/Desktop ──────────────────────────────── took  7s at  11:01:05 pm ─╮ 
+╰─❯ vim .super-secret                                                        ─╯ 
+ 
+╭─   ~/Desktop ─────────────────────────────── took  12s at  11:01:18 pm ─╮ 
+╰─❯ pbcopy < .super-secret                                                   ─╯ 
+ 
+╭─   ~/Desktop ────────────────────────────────────────── at  11:01:24 pm ─╮ 
+╰─❯ super secret message: babes loves babes <3                               ─╯ 
+ 
+zsh: no such file or directory: 3 
+ 
+╭─   ~/Desktop ────────────────────────────────────────── at  11:01:28 pm ─╮ 
+╰─❯                                                                          ─╯ 
