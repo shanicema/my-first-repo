@@ -1,0 +1,476 @@
+   This is Powerlevel10k configuration wizard. You are seeing it because you 
+ haven't defined any Powerlevel10k configuration options. It will ask you a few 
+                      questions and configure your prompt. 
+ 
+                Does this look like a diamond (rotated square)? 
+                  reference: https://graphemica.com/%E2%97%86 
+ 
+                                 --->    <--- 
+ 
+(y)  Yes. 
+ 
+(n)  No. 
+ 
+(q)  Quit and do nothing. 
+ 
+Choice [ynq]:  
+                          Does this look like a lock? 
+                 reference: https://fontawesome.com/icons/lock 
+ 
+                                 --->    <--- 
+ 
+(y)  Yes. 
+ 
+(n)  No. 
+ 
+(r)  Restart from the beginning. 
+(q)  Quit and do nothing. 
+ 
+Choice [ynrq]:  
+               Does this look like a Debian logo (swirl/spiral)? 
+              reference: https://debian.org/logos/openlogo-nd.svg 
+ 
+                                 --->    <--- 
+ 
+(y)  Yes. 
+ 
+(n)  No. 
+ 
+(r)  Restart from the beginning. 
+(q)  Quit and do nothing. 
+ 
+Choice [ynrq]:  
+                  Do all these icons fit between the crosses? 
+ 
+                         --->  XXXXXXXXX  <--- 
+ 
+(y)  Yes. Icons are very close to the crosses but there is no overlap. 
+ 
+(n)  No. Some icons overlap neighbouring crosses. 
+ 
+(r)  Restart from the beginning. 
+(q)  Quit and do nothing. 
+ 
+Choice [ynrq]:  
+                                  Prompt Style 
+(1)  Lean. 
+  ~/src master                                                              5s 
+  ❯                                                                            
+ 
+(2)  Classic. 
+  ╭─ ~/src  master                                                    5s ─╮ 
+  ╰─                                                                        ─╯ 
+ 
+(3)  Rainbow. 
+  ╭─ ~/src  master                                                    5s ─╮ 
+  ╰─                                                                        ─╯ 
+ 
+(4)  Pure. 
+  ~/src master 5s                                                              
+  ❯                                                                            
+ 
+(r)  Restart from the beginning. 
+(q)  Quit and do nothing. 
+ 
+Choice [1234rq]:  
+                                 Character Set 
+ 
+(1)  Unicode. 
+ 
+  ~/src master                                                              5s 
+  ❯                                                                            
+ 
+(2)  ASCII. 
+ 
+  ~/src master                                                              5s 
+  >                                                                            
+ 
+(r)  Restart from the beginning. 
+(q)  Quit and do nothing. 
+ 
+Choice [12rq]:  
+                                 Prompt Colors 
+ 
+(1)  256 colors. 
+ 
+  ~/src master                                                              5s 
+  ❯                                                                            
+ 
+(2)  8 colors. 
+ 
+  ~/src master                                                              5s 
+  ❯                                                                            
+ 
+(r)  Restart from the beginning. 
+(q)  Quit and do nothing. 
+ 
+Choice [12rq]:  
+                               Show current time? 
+ 
+(1)  No. 
+ 
+  ~/src master                                                              5s 
+  ❯                                                                            
+ 
+(2)  24-hour format. 
+ 
+  ~/src master                                                     5s 16:23:42 
+  ❯                                                                            
+ 
+(3)  12-hour format. 
+ 
+  ~/src master                                                  5s 04:23:42 PM 
+  ❯                                                                            
+ 
+(r)  Restart from the beginning. 
+(q)  Quit and do nothing. 
+ 
+Choice [123rq]:  
+                                 Prompt Height 
+ 
+(1)  One line. 
+ 
+  ~/src master ❯                                                5s 04:23:42 PM 
+ 
+(2)  Two lines. 
+ 
+  ~/src master                                                  5s 04:23:42 PM 
+  ❯                                                                            
+ 
+(r)  Restart from the beginning. 
+(q)  Quit and do nothing. 
+ 
+Choice [12rq]:  
+                               Prompt Connection 
+ 
+(1)  Disconnected. 
+ 
+  ~/src master                                                  5s 04:23:42 PM 
+  ❯                                                                            
+ 
+(2)  Dotted. 
+ 
+  ~/src master ················································ 5s 04:23:42 PM 
+  ❯                                                                            
+ 
+(3)  Solid. 
+ 
+  ~/src master ──────────────────────────────────────────────── 5s 04:23:42 PM 
+  ❯                                                                            
+ 
+(r)  Restart from the beginning. 
+(q)  Quit and do nothing. 
+ 
+Choice [123rq]:  
+                                  Prompt Frame 
+(1)  No frame. 
+  ~/src master ──────────────────────────────────────────────── 5s 04:23:42 PM 
+  ❯                                                                            
+ 
+(2)  Left. 
+  ╭─ ~/src master ───────────────────────────────────────────── 5s 04:23:42 PM 
+  ╰─❯                                                                          
+ 
+(3)  Right. 
+  ~/src master ───────────────────────────────────────────── 5s 04:23:42 PM ─╮ 
+  ❯                                                                         ─╯ 
+ 
+(4)  Full. 
+  ╭─ ~/src master ────────────────────────────────────────── 5s 04:23:42 PM ─╮ 
+  ╰─❯                                                                       ─╯ 
+ 
+(r)  Restart from the beginning. 
+(q)  Quit and do nothing. 
+ 
+Choice [1234rq]:  
+                            Connection & Frame Color 
+(1)  Lightest. 
+  ╭─ ~/src master ────────────────────────────────────────── 5s 04:23:42 PM ─╮ 
+  ╰─❯                                                                       ─╯ 
+ 
+(2)  Light. 
+  ╭─ ~/src master ────────────────────────────────────────── 5s 04:23:42 PM ─╮ 
+  ╰─❯                                                                       ─╯ 
+ 
+(3)  Dark. 
+  ╭─ ~/src master ────────────────────────────────────────── 5s 04:23:42 PM ─╮ 
+  ╰─❯                                                                       ─╯ 
+ 
+(4)  Darkest. 
+  ╭─ ~/src master ────────────────────────────────────────── 5s 04:23:42 PM ─╮ 
+  ╰─❯                                                                       ─╯ 
+ 
+(r)  Restart from the beginning. 
+(q)  Quit and do nothing. 
+ 
+Choice [1234rq]:  
+                                 Prompt Spacing 
+ 
+(1)  Compact. 
+ 
+  ╭─ ~/src master ────────────────────────────────────────── 5s 04:23:42 PM ─╮ 
+  ╰─❯                                                                       ─╯ 
+  ╭─ ~/src master ────────────────────────────────────────── 5s 04:23:42 PM ─╮ 
+  ╰─❯                                                                       ─╯ 
+ 
+(2)  Sparse. 
+ 
+  ╭─ ~/src master ────────────────────────────────────────── 5s 04:23:42 PM ─╮ 
+  ╰─❯                                                                       ─╯ 
+ 
+  ╭─ ~/src master ────────────────────────────────────────── 5s 04:23:42 PM ─╮ 
+  ╰─❯                                                                       ─╯ 
+ 
+(r)  Restart from the beginning. 
+(q)  Quit and do nothing. 
+ 
+Choice [12rq]:  
+                                     Icons 
+ 
+(1)  Few icons. 
+ 
+  ╭─ ~/src master ────────────────────────────────────────── 5s 04:23:42 PM ─╮ 
+  ╰─❯                                                                       ─╯ 
+ 
+(2)  Many icons. 
+ 
+  ╭─   ~/src   master ──────────────────────────────  5s  04:23:42 PM ─╮ 
+  ╰─❯                                                                       ─╯ 
+ 
+(r)  Restart from the beginning. 
+(q)  Quit and do nothing. 
+ 
+Choice [12rq]:  
+                                  Prompt Flow 
+ 
+(1)  Concise. 
+ 
+  ╭─   ~/src   master ──────────────────────────────  5s  04:23:42 PM ─╮ 
+  ╰─❯                                                                       ─╯ 
+ 
+(2)  Fluent. 
+ 
+  ╭─   ~/src on   master ─────────────────── took  5s at  04:23:42 PM ─╮ 
+  ╰─❯                                                                       ─╯ 
+ 
+(r)  Restart from the beginning. 
+(q)  Quit and do nothing. 
+ 
+Choice [12rq]:  
+                            Enable Transient Prompt? 
+ 
+(y)  Yes. 
+ 
+  ❯ git pull 
+  ❯ git branch x 
+ 
+  ╭─   ~/src on   master ─────────────────── took  5s at  04:23:42 PM ─╮ 
+  ╰─❯ git checkout x                                                        ─╯ 
+ 
+(n)  No. 
+ 
+  ╭─   ~/src on   master ─────────────────── took  5s at  04:23:42 PM ─╮ 
+  ╰─❯ git pull                                                              ─╯ 
+ 
+  ╭─   ~/src on   master ─────────────────── took  5s at  04:23:42 PM ─╮ 
+  ╰─❯ git branch x                                                          ─╯ 
+ 
+  ╭─   ~/src on   master ─────────────────── took  5s at  04:23:42 PM ─╮ 
+  ╰─❯ git checkout x                                                        ─╯ 
+ 
+(r)  Restart from the beginning. 
+(q)  Quit and do nothing. 
+ 
+Choice [ynrq]:  
+                              Instant Prompt Mode 
+ 
+ https://github.com/romkatv/powerlevel10k/blob/master/README.md#instant-prompt 
+ 
+(1)  Verbose (recommended). 
+ 
+(2)  Quiet. Choose this if you've read and understood instant prompt 
+     documentation. 
+ 
+(3)  Off. Choose this if you've tried instant prompt and found it incompatible 
+     with your zsh configuration files. 
+ 
+(r)  Restart from the beginning. 
+(q)  Quit and do nothing. 
+ 
+Choice [123rq]:  
+Last login: Mon Sep 19 22:12:16 on ttys002 
+                                                                                 
+New config: ~/.p10k.zsh. 
+Backup of ~/.zshrc: $TMPDIR/.zshrc.ZnDqWlaGkI. 
+ 
+See ~/.zshrc changes: 
+ 
+  diff $TMPDIR/.zshrc.ZnDqWlaGkI ~/.zshrc 
+ 
+File feature requests and bug reports at 
+https://github.com/romkatv/powerlevel10k/issues 
+ 
+╭─   ~ ────────────────────────────────────────────────── at  10:19:18 pm ─╮ 
+╰─❯ sdfdsfd                                                                  ─╯ 
+ 
+╭─   ~ ──────────────────────────────────────────── ✘ INT at  10:19:23 pm ─╮ 
+╰─❯                                                                          ─╯ 
+ 
+╭─   ~ ──────────────────────────────────────────── ✘ INT at  10:19:23 pm ─╮ 
+╰─❯                                                                          ─╯ 
+ 
+╭─   ~ ──────────────────────────────────────────── ✘ INT at  10:19:25 pm ─╮ 
+╰─❯ cd ~/Desktop                                                             ─╯ 
+ 
+╭─   ~/Desktop ────────────────────────────────────────── at  10:19:31 pm ─╮ 
+╰─❯ ls                                                                       ─╯ 
+Screen Shot 2022-09-15 at 7.47.20 pm.png 
+Screen Shot 2022-09-19 at 1.36.14 pm (2).png 
+Screen Shot 2022-09-19 at 1.36.14 pm.png 
+Screen Shot 2022-09-19 at 1.52.45 pm (2).png 
+Screen Shot 2022-09-19 at 1.52.45 pm.png 
+Screen Shot 2022-09-19 at 10.01.55 am.png 
+Screen Shot 2022-09-19 at 10.09.08 am.png 
+Screen Shot 2022-09-19 at 10.11.39 am (2).png 
+Screen Shot 2022-09-19 at 10.11.39 am.png 
+Screen Shot 2022-09-19 at 10.15.55 am (2).png 
+Screen Shot 2022-09-19 at 10.15.55 am.png 
+Screen Shot 2022-09-19 at 10.16.02 am (2).png 
+Screen Shot 2022-09-19 at 10.16.02 am.png 
+Screen Shot 2022-09-19 at 10.42.40 am.png 
+Screen Shot 2022-09-19 at 10.59.51 am (2).png 
+Screen Shot 2022-09-19 at 10.59.51 am.png 
+Screen Shot 2022-09-19 at 11.06.46 am (2).png 
+Screen Shot 2022-09-19 at 11.06.46 am.png 
+Screen Shot 2022-09-19 at 11.10.21 am.png 
+Screen Shot 2022-09-19 at 11.47.56 am (2).png 
+Screen Shot 2022-09-19 at 11.47.56 am.png 
+Screen Shot 2022-09-19 at 11.47.58 am (2).png 
+Screen Shot 2022-09-19 at 11.47.58 am.png 
+Screen Shot 2022-09-19 at 11.49.01 am (2).png 
+Screen Shot 2022-09-19 at 11.49.01 am.png 
+Screen Shot 2022-09-19 at 2.05.06 pm (2).png 
+Screen Shot 2022-09-19 at 2.05.06 pm.png 
+Screen Shot 2022-09-19 at 2.07.19 pm (2).png 
+Screen Shot 2022-09-19 at 2.07.19 pm.png 
+Screen Shot 2022-09-19 at 2.07.48 pm (2).png 
+Screen Shot 2022-09-19 at 2.07.48 pm.png 
+Screen Shot 2022-09-19 at 2.08.31 pm.png 
+Screen Shot 2022-09-19 at 2.34.17 pm.png 
+Screen Shot 2022-09-19 at 2.34.59 pm (2).png 
+Screen Shot 2022-09-19 at 2.34.59 pm.png 
+Screen Shot 2022-09-19 at 2.39.58 pm (2).png 
+Screen Shot 2022-09-19 at 2.39.58 pm.png 
+Screen Shot 2022-09-19 at 2.41.17 pm (2).png 
+Screen Shot 2022-09-19 at 2.41.17 pm.png 
+Screen Shot 2022-09-19 at 2.42.22 pm (2).png 
+Screen Shot 2022-09-19 at 2.42.22 pm.png 
+Screen Shot 2022-09-19 at 2.43.41 pm.png 
+Screen Shot 2022-09-19 at 2.52.07 pm (2).png 
+Screen Shot 2022-09-19 at 2.52.07 pm.png 
+Screen Shot 2022-09-19 at 2.52.41 pm (2).png 
+Screen Shot 2022-09-19 at 2.52.41 pm.png 
+Screen Shot 2022-09-19 at 2.53.57 pm (2).png 
+Screen Shot 2022-09-19 at 2.53.57 pm.png 
+Screen Shot 2022-09-19 at 2.57.44 pm (2).png 
+Screen Shot 2022-09-19 at 2.57.44 pm.png 
+Screen Shot 2022-09-19 at 2.59.04 pm (2).png 
+Screen Shot 2022-09-19 at 2.59.04 pm.png 
+Screen Shot 2022-09-19 at 3.59.06 pm (2).png 
+Screen Shot 2022-09-19 at 3.59.06 pm.png 
+Screen Shot 2022-09-19 at 4.00.48 pm.png 
+Screen Shot 2022-09-19 at 4.01.27 pm.png 
+Screen Shot 2022-09-19 at 4.03.25 pm.png 
+Screen Shot 2022-09-19 at 4.03.51 pm.png 
+Screen Shot 2022-09-19 at 4.05.14 pm.png 
+Screen Shot 2022-09-19 at 4.44.15 pm (2).png 
+Screen Shot 2022-09-19 at 4.44.15 pm.png 
+Screen Shot 2022-09-19 at 4.44.19 pm (2).png 
+Screen Shot 2022-09-19 at 4.44.19 pm.png 
+Screen Shot 2022-09-19 at 9.42.17 am.png 
+Screen Shot 2022-09-19 at 9.53.17 am (2).png 
+Screen Shot 2022-09-19 at 9.53.17 am 1(2).png 
+Screen Shot 2022-09-19 at 9.53.17 am 1.png 
+Screen Shot 2022-09-19 at 9.53.17 am.png 
+Screen Shot 2022-09-19 at 9.53.18 am (2).png 
+Screen Shot 2022-09-19 at 9.53.18 am.png 
+dogs 
+people 
+terminal-lesson 
+ 
+╭─   ~/Desktop ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── at  10:19:35 pm ─╮ 
+╰─❯ clear                                                                                                                                                                                                                                                 ─╯ 
+╭─   ~/Desktop ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── at  10:19:49 pm ─╮ 
+╰─❯ pwd                                                                                                                                                                                                                                                   ─╯ 
+/Users/shanicema/Desktop 
+ 
+╭─   ~/Desktop ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── at  10:19:53 pm ─╮ 
+╰─❯ cd people                                                                                                                                                                                                                                             ─╯ 
+ 
+╭─   ~/Desktop/people ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── at  10:20:12 pm ─╮ 
+╰─❯ ls                                                                                                                                                                                                                                                    ─╯ 
+kevin   sarah   shanice 
+ 
+╭─   ~/Desktop/people ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── at  10:20:17 pm ─╮ 
+╰─❯ ls -l                                                                                                                                                                                                                                                 ─╯ 
+total 0 
+drwxr-xr-x@ 2 shanicema  staff   64 19 Sep 21:41 kevin 
+drwxr-xr-x@ 5 shanicema  staff  160 19 Sep 21:44 sarah 
+drwxr-xr-x@ 3 shanicema  staff   96 19 Sep 21:45 shanice 
+ 
+╭─   ~/Desktop/people ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── at  10:20:20 pm ─╮ 
+╰─❯ ls shanice/                                                                                                                                                                                                                                           ─╯ 
+ 
+╭─   ~/Desktop/people ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ✘ INT at  10:20:46 pm ─╮ 
+╰─❯ ls -al                                                                                                                                                                                                                                                ─╯ 
+total 16 
+drwxr-xr-x@  6 shanicema  staff   192 19 Sep 21:57 . 
+drwx------@ 77 shanicema  staff  2464 19 Sep 21:57 .. 
+-rw-r--r--@  1 shanicema  staff  6148 19 Sep 21:56 .DS_Store 
+drwxr-xr-x@  2 shanicema  staff    64 19 Sep 21:41 kevin 
+drwxr-xr-x@  5 shanicema  staff   160 19 Sep 21:44 sarah 
+drwxr-xr-x@  3 shanicema  staff    96 19 Sep 21:45 shanice 
+ 
+╭─   ~/Desktop/people ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── at  10:20:48 pm ─╮ 
+╰─❯ ls shanice                                                                                                                                                                                                                                            ─╯ 
+bailey.txt2 
+ 
+╭─   ~/Desktop/people ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── at  10:21:03 pm ─╮ 
+╰─❯ ls shanice                                                                                                                                                                                                                                            ─╯ 
+bailey.txt2 
+ 
+╭─   ~/Desktop/people ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── at  10:21:10 pm ─╮ 
+╰─❯ ls shanice/                                                                                                                                                                                                                                           ─╯ 
+ 
+╭─   ~/Desktop/people ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ✘ INT at  10:21:22 pm ─╮ 
+╰─❯                                                                                                                                                                                                                                                       ─╯ 
+ 
+╭─   ~/Desktop/people ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ✘ INT at  10:21:23 pm ─╮ 
+╰─❯                                                                                                                                                                                                                                                       ─╯ 
+ 
+╭─   ~/Desktop/people ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ✘ INT at  10:21:24 pm ─╮ 
+╰─❯                                                                                                                                                                                                                                                       ─╯ 
+ 
+╭─   ~/Desktop/people ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ✘ INT at  10:21:24 pm ─╮ 
+╰─❯                                                                                                                                                                                                                                                       ─╯ 
+ 
+╭─   ~/Desktop/people ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ✘ INT at  10:21:27 pm ─╮ 
+╰─❯ sdfsdfssdfsdf                                                                                                                                                                                                                                         ─╯ 
+ 
+╭─   ~/Desktop/people ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ✘ INT at  10:21:33 pm ─╮ 
+╰─❯ ls -al                                                                                                                                                                                                                                                ─╯ 
+ 
+╭─   ~/Desktop/people ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ✘ INT at  10:21:44 pm ─╮ 
+╰─❯ ls -l                                                                                                                                                                                                                                                 ─╯ 
+ 
+╭─   ~/Desktop/people ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ✘ INT at  10:34:18 pm ─╮ 
+╰─❯ git pull                                                                                                                                                                                                                                              ─╯ 
+ 
+╭─   ~/Desktop/people ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ✘ INT at  10:34:27 pm ─╮ 
+╰─❯ git clone git@github.com:shanicema/my-first-repo.git                                                                                                                                                                                                  ─╯ 
+ 
+╭─   ~/Desktop/people ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ✘ INT at  10:34:35 pm ─╮ 
+╰─❯                                                                                                                                                                                                                                                       ─╯ 
+ 
+╭─   ~/Desktop/people ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ✘ INT at  10:34:35 pm ─╮ 
+╰─❯ MesloLGS NF                                                                                                                                                                                                                                           ─╯ 

@@ -1,0 +1,144 @@
+Last login: Mon Sep 19 22:44:29 on ttys000 
+╭─   ~ ────────────────────────────────────────────────── at  10:48:18 pm ─╮ 
+╰─❯ *                                                                        ─╯ 
+zsh: command not found: Applications 
+ 
+╭─   ~ ────────────────────────────────────────────────── at  10:48:23 pm ─ 
+╭─   ~ ──────────────────────────────────────────────────────────────────────────────────────────── at  10:48:23 pm ─╮ 
+╰─❯ ./*                                                                                                                ─╯ 
+zsh: permission denied: ./Applications 
+ 
+╭─   ~ ──────────────────────────────────────────────────────────────────────────────────────────── at  10:48:34 pm ─╮ 
+╰─❯ Documents/*                                                                                                        ─╯ 
+zsh: permission denied: Documents/2019 HSBC Bank Statements joint 
+ 
+╭─   ~ ──────────────────────────────────────────────────────────────────────────────────────────── at  10:48:54 pm ─╮ 
+╰─❯ ls Documents                                                                                                       ─╯ 
+2019 HSBC Bank Statements joint Clade Growth Plan FY21          QLD Family Trip 
+2020 HSBC Bank Statements joint Dad's Receipts                  Vision 21 
+2021 HSBC Bank Statements joint Personality Plus                Visual Studio Code Repo 22 
+ 
+╭─   ~ ──────────────────────────────────────────────────────────────────────────────────────────── at  10:49:53 pm ─╮ 
+╰─❯ ls Documents/*                                                                                                     ─╯ 
+Documents/2019 HSBC Bank Statements joint: 
+statement-2.pdf statement-3.pdf statement-4.pdf statement-5.pdf statement.pdf 
+ 
+Documents/2020 HSBC Bank Statements joint: 
+statement-10.pdf statement-12.pdf statement-3.pdf  statement-5.pdf  statement-7.pdf  statement-9.pdf 
+statement-11.pdf statement-2.pdf  statement-4.pdf  statement-6.pdf  statement-8.pdf  statement.pdf 
+ 
+Documents/2021 HSBC Bank Statements joint: 
+statement-10.pdf statement-12.pdf statement-3.pdf  statement-5.pdf  statement-7.pdf  statement-9.pdf 
+statement-11.pdf statement-2.pdf  statement-4.pdf  statement-6.pdf  statement-8.pdf  statement.pdf 
+ 
+Documents/Clade Growth Plan FY21: 
+Growth Plan Excel.xlsx Growth Plan.numbers 
+ 
+Documents/Dad's Receipts: 
+Dad tax 2020 payment receipt.png Stampduty receipt 2021.png 
+ 
+Documents/Personality Plus: 
+Your Personality Profile 2020 copy.pdf Your Personality Profile 2020.pdf      personality-plus.pdf 
+ 
+Documents/QLD Family Trip: 
+QLD TRIP Family Trip.numbers         QLD TRIP Family Trip_updated.numbers QLD TRIP.numbers 
+QLD TRIP Family Trip.xlsx            QLD TRIP Family Trip_updated.xlsx 
+ 
+Documents/Vision 21: 
+Iamhealthy.pdf                           freedomofbody.pdf 
+Screen Shot 2021-08-29 at 7.44.40 pm.png iambillionaire.pdf 
+Shanice's Life Vision Revised .mp4       iamflexiblestrong.pdf 
+Shanice's Life Vision.mp4                inlove.pdf 
+Vision Pics                              shanicesnyhome.pdf 
+Visionboardtemplate.pages                travelworld.pdf 
+affirmtemplate.pages 
+ 
+Documents/Visual Studio Code Repo 22: 
+Nology_PrecourseWork 
+ 
+╭─   ~ ──────────────────────────────────────────────────────────────────────────────────────────── at  10:49:57 pm ─╮ 
+╰─❯ ls -l Documents/Vision\ 21                                                                                         ─╯ 
+total 977656 
+-rw-r--r--@   1 shanicema  staff       7154 29 Aug  2021 Iamhealthy.pdf 
+-rw-r--r--@   1 shanicema  staff    1387008 29 Aug  2021 Screen Shot 2021-08-29 at 7.44.40 pm.png 
+-rw-r--r--@   1 shanicema  staff  236874370 30 Apr 21:26 Shanice's Life Vision Revised .mp4 
+-rw-r--r--@   1 shanicema  staff  261764831 29 Aug  2021 Shanice's Life Vision.mp4 
+drwxr-xr-x@ 185 shanicema  staff       5920 15 Aug 15:58 Vision Pics 
+-rwx------@   1 shanicema  staff     280760 29 Aug  2021 Visionboardtemplate.pages 
+-rwx------@   1 shanicema  staff     103831 29 Aug  2021 affirmtemplate.pages 
+-rw-r--r--@   1 shanicema  staff      79790 29 Aug  2021 freedomofbody.pdf 
+-rw-r--r--@   1 shanicema  staff       7716 29 Aug  2021 iambillionaire.pdf 
+-rw-r--r--@   1 shanicema  staff       8666 29 Aug  2021 iamflexiblestrong.pdf 
+-rw-r--r--@   1 shanicema  staff       7176 29 Aug  2021 inlove.pdf 
+-rw-r--r--@   1 shanicema  staff       8421 29 Aug  2021 shanicesnyhome.pdf 
+-rw-r--r--@   1 shanicema  staff       7965 29 Aug  2021 travelworld.pdf 
+ 
+╭─   ~ ──────────────────────────────────────────────────────────────────────────────────────────── at  10:51:29 pm ─╮ 
+╰─❯ touch dangerous-script                                                                                             ─╯ 
+ 
+╭─   ~ ──────────────────────────────────────────────────────────────────────────────────────────── at  10:52:25 pm ─╮ 
+╰─❯ ls                                                                                                                 ─╯ 
+Applications      Downloads         Music             dangerous-script  index.html 
+Desktop           Library           Pictures          eclipse 
+Documents         Movies            Public            eclipse-workspace 
+ 
+╭─   ~ ──────────────────────────────────────────────────────────────────────────────────────────── at  10:52:26 pm ─╮ 
+╰─❯ chmod a+x dangerous-script                                                                                         ─╯ 
+ 
+╭─   ~ ──────────────────────────────────────────────────────────────────────────────────────────── at  10:52:34 pm ─╮ 
+╰─❯ ls                                                                                                                 ─╯ 
+Applications      Downloads         Music             dangerous-script  index.html 
+Desktop           Library           Pictures          eclipse 
+Documents         Movies            Public            eclipse-workspace 
+ 
+╭─   ~ ──────────────────────────────────────────────────────────────────────────────────────────── at  10:52:35 pm ─╮ 
+╰─❯ ls -l                                                                                                              ─╯ 
+total 0 
+drwx------@   4 shanicema  staff   128 23 Feb  2022 Applications 
+drwx------@   7 shanicema  staff   224 19 Sep 21:57 Desktop 
+drwx------@  13 shanicema  staff   416 19 Sep 22:43 Documents 
+drwx------+ 154 shanicema  staff  4928 19 Sep 22:46 Downloads 
+drwx------@  82 shanicema  staff  2624 30 Aug 09:48 Library 
+drwx------    6 shanicema  staff   192 29 Aug  2021 Movies 
+drwx------+   6 shanicema  staff   192 10 Jul  2021 Music 
+drwx------+   5 shanicema  staff   160 10 Jul  2021 Pictures 
+drwxr-xr-x+   4 shanicema  staff   128 28 Jun  2021 Public 
+-rwxr-xr-x    1 shanicema  staff     0 19 Sep 22:52 dangerous-script 
+drwxr-xr-x    3 shanicema  staff    96 19 Sep 11:57 eclipse 
+drwxr-xr-x    3 shanicema  staff    96 19 Sep 12:59 eclipse-workspace 
+-rw-r--r--    1 shanicema  staff     0 19 Sep 16:59 index.html 
+ 
+╭─   ~ ──────────────────────────────────────────────────────────────────────────────────────────── at  10:52:40 pm ─╮ 
+╰─❯ pwd                                                                                                                ─╯ 
+/Users/shanicema 
+ 
+╭─   ~ ──────────────────────────────────────────────────────────────────────────────────────────── at  10:53:03 pm ─╮ 
+╰─❯ cd /                                                                                                               ─╯ 
+ 
+╭─   / ──────────────────────────────────────────────────────────────────────────────────────────── at  10:53:33 pm ─╮ 
+╰─❯ cd ~                                                                                                               ─╯ 
+ 
+╭─   ~ ──────────────────────────────────────────────────────────────────────────────────────────── at  10:53:39 pm ─╮ 
+╰─❯ cd ~/..                                                                                                            ─╯ 
+ 
+╭─   /Users ─────────────────────────────────────────────────────────────────────────────────────── at  10:53:47 pm ─╮ 
+╰─❯ rm -rf /                                                                                                           ─╯ 
+ 
+╭─   /Users ───────────────────────────────────────────────────────────────────────────────── ✘ INT at  10:54:15 pm ─╮ 
+╰─❯                                                                                                                    ─╯ 
+ 
+╭─   /Users ───────────────────────────────────────────────────────────────────────────────── ✘ INT at  10:54:39 pm ─╮ 
+╰─❯ cd ~                                                                                                               ─╯ 
+ 
+╭─   ~ ──────────────────────────────────────────────────────────────────────────────────────────── at  10:54:56 pm ─╮ 
+╰─❯ pwd                                                                                                                ─╯ 
+/Users/shanicema 
+ 
+╭─   ~ ──────────────────────────────────────────────────────────────────────────────────────────── at  10:55:06 pm ─╮ 
+╰─❯ cd Desktop                                                                                                         ─╯ 
+ 
+╭─   ~/Desktop ──────────────────────────────────────────────────────────────────────────────────── at  10:55:13 pm ─╮ 
+╰─❯ cd people                                                                                                          ─╯ 
+ 
+╭─   ~/Desktop/people ───────────────────────────────────────────────────────────────────────────── at  10:55:21 pm ─╮ 
+╰─❯                                                                                                                    ─╯ 
